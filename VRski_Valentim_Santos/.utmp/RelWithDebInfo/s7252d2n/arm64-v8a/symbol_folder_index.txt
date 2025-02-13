@@ -1,0 +1,1 @@
+C:\Users\valen\Desktop\IVARproj\VRski_Valentim_Santos\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\s7252d2n\obj\arm64-v8a
